@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(BackendDoiHandler_old.php)$">
+<FilesMatch "^()$">
 Order allow,deny
 Allow from all
 </FilesMatch>
