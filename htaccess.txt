@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(PKPContextHandler.inc.php)$">
+<FilesMatch "^(PKPPublicFileManager.inc.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
