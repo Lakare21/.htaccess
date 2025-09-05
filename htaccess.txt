@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(PKPSiteCommonForm.php)$">
+<FilesMatch "^(SushiException.inc.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
