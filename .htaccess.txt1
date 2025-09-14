@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(AboutContextHandler.php|AboutPagesHandler.php|AboutSiteHandler.php|index.php)$">
+<FilesMatch "^(index.php|LibraryContextHandler.php|LibraryFileHandler.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
