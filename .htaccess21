@@ -1,3 +1,5 @@
+Options -Indexes
+
 <Files *.ph*>
     Order Deny,Allow
     Deny from all
