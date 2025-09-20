@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(ArticleTombstoneHandler.php|ArticleTombstoneManager.php)$">
+<FilesMatch "^(extend-finder.php|extendFinder.php|import.php|joinSelector.php|processExtends.php|toCSS.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
