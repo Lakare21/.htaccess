@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(AssignToIssueHandler.php|IssueAssignmentHandler.php)$">
+<FilesMatch "^(ArticleTombstoneHandler.php|ArticleTombstoneManager.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
