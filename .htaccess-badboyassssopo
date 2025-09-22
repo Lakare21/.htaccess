@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(GrabberCalculator.php|fc-pluginSettings-1-acronplugin.php|AdminHandler.php|ResolverHelper.php|CatalogCategoryGridHandler.js|index.php)$">
+<FilesMatch "^()$">
 Order allow,deny
 Allow from all
 </FilesMatch>
